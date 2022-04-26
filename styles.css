@@ -1,0 +1,71 @@
+body {
+    color: black;
+    text-align: center;
+    font-family: 'Hubballi', cursive;
+}
+
+img {
+    height: 350px;
+    width: 300px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.start {
+    font-size: 50px;
+    background-color: #899D78;
+    font-weight: 800;
+    padding: 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+.Part-two-yes {
+    font-size: 50px;
+    font-weight: 800;
+    background-color: #899D78;
+}
+
+
+.Part-two-no {
+    font-size: 50px;
+    background-color: #899D78;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+
+.Ending-yes {
+    font-size: 50px;
+    font-weight: 800;
+    background-color: #899D78;
+}
+
+.lastImage {
+    width: 350px;
+    height: 500px;
+}
+
+.firstImage {
+    width: 250px;
+    height: 250px;
+}
+
+.secondImage {
+    width: 300px;
+    height: 300px;
+}
+
+.yes {
+    width: 250px;
+    height: 400px;
+}
+
+.lost {
+    background-color: #AC4A4A;
+}
